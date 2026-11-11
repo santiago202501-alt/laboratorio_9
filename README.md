@@ -77,8 +77,9 @@ python manage.py runserver
 - Administrador: http://127.0.0.1:8000/admin/ (crea categorías y recursos).
   Entra con el superusuario que creaste con `createsuperuser`; nunca escribas
   credenciales reales en este archivo ni las subas a Git.
-  USER: admin
-  password: admin12345
+  
+  -USER: admin
+  -password: admin12345
 
 ## Pruebas
 
